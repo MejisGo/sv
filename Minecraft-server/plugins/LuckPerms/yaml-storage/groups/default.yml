@@ -1,0 +1,8 @@
+name: default
+permissions:
+- essentials.back
+- essentials.back.ondeath
+- essentials.backondeath
+- essentials.tpa
+- essentials.tpacancel
+- essentials.tpaccept

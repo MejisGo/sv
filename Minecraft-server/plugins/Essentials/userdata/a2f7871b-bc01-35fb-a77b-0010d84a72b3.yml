@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709427193454
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709428025858
+  login: 1709413732209
+money: '0'
+last-account-name: ZeffiesPx
+logoutlocation:
+  world: bcf8349f-975b-4722-b944-ec3b0ecedb26
+  world-name: world
+  x: 1270.5
+  y: 72.0
+  z: 859.5
+  yaw: -134.99998474121094
+  pitch: 0.0
+lastlocation:
+  world: 8ced0bc3-433c-4466-800c-946025ab67e3
+  world-name: twilight_forest
+  x: 46388.136140995535
+  y: 6.0
+  z: 12024.225690547264
+  yaw: -172.22012329101562
+  pitch: 30.44997215270996

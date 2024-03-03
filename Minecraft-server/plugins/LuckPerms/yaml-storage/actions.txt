@@ -1,0 +1,5 @@
+{"timestamp":1709324332,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"default"},"description":"permission set essentials.tpa true"}
+{"timestamp":1709324492,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"USER","uniqueId":"fc1f5a39-44e6-34a7-a1a3-10f707b065e0","name":"MejisGo"},"description":"permission set essentials.* true"}
+{"timestamp":1709354624,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"default"},"description":"permission set essentials.back true"}
+{"timestamp":1709354627,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"default"},"description":"permission set essentials.backondeath true"}
+{"timestamp":1709354878,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"default"},"description":"permission set essentials.back.ondeath true"}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709426398533
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709427071262
+  login: 1709412207789
+money: '0'
+last-account-name: Misfik
+logoutlocation:
+  world: 8ced0bc3-433c-4466-800c-946025ab67e3
+  world-name: twilight_forest
+  x: 44005.21245637629
+  y: 18.0
+  z: 12243.049602810586
+  yaw: 102.3651123046875
+  pitch: 28.127685546875
+lastlocation:
+  world: 8ced0bc3-433c-4466-800c-946025ab67e3
+  world-name: twilight_forest
+  x: 46792.484990352634
+  y: 5.0
+  z: 12326.401085626989
+  yaw: -31.6888427734375
+  pitch: 8.983104705810547

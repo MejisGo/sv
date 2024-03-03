@@ -1,0 +1,9 @@
+# LuckPerms UUID lookup cache
+0aa237d9-b82c-3f3a-9f4c-d4e68c311d27:elMasaLegalizado
+fc1f5a39-44e6-34a7-a1a3-10f707b065e0:MejisGo
+4a2fc0d7-a1c4-3c91-8ddb-c6f65d33ca67:xleh
+a2f7871b-bc01-35fb-a77b-0010d84a72b3:ZeffiesPx
+e3c5dbb6-8feb-374e-9902-574ed910c78e:BenshisSPJ
+5d4dd945-ae8c-32e6-ab46-a0c28e161746:PatataAa1
+6aeb4631-1b25-3d5b-84c3-aa22d3ea38d2:Misfik
+669f036a-e505-39d9-8754-7a011edf8a3e:amaruuwuwu

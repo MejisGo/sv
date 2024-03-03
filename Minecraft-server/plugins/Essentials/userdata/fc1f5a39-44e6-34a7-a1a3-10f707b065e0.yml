@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709426638018
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709426694507
+  login: 1709420327056
+money: '0'
+last-account-name: MejisGo
+logoutlocation:
+  world: bcf8349f-975b-4722-b944-ec3b0ecedb26
+  world-name: world
+  x: 5911.316428756944
+  y: 107.0
+  z: 1533.5867868708212
+  yaw: -104.4467544555664
+  pitch: -0.24838753044605255
+lastlocation:
+  world: 61c6efad-a566-4f94-a225-66a0fbe70b09
+  world-name: the_aether
+  x: 58.58801675660859
+  y: 56.0
+  z: 2977.8216751197606
+  yaw: 149.37774658203125
+  pitch: 7.171245574951172

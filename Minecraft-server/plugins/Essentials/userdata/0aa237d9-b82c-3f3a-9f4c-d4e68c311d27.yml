@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709350834068
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709351274542
+  login: 1709350188466
+money: '0'
+last-account-name: elMasaLegalizado
+lastlocation:
+  world: bcf8349f-975b-4722-b944-ec3b0ecedb26
+  world-name: world
+  x: -53.135189754839395
+  y: 104.0
+  z: -23.053850838141376
+  yaw: -43.321292877197266
+  pitch: 10.085053443908691
+logoutlocation:
+  world: bcf8349f-975b-4722-b944-ec3b0ecedb26
+  world-name: world
+  x: 555.6999999880791
+  y: 64.0
+  z: 928.3000000119209
+  yaw: -134.4407958984375
+  pitch: 6.8760085105896

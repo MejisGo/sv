@@ -1,0 +1,103 @@
+# This is the main configuration file for Mohist.
+# As you can see, there's tons to configure. Some options may impact gameplay, so use
+# with caution, and make sure you know what each option does before configuring.
+# For a reference for any variable inside this file, check out the Mohist wiki at
+# https://wiki.mohistmc.com/
+#
+# If you need help with the configuration or have any questions related to Spigot,
+# join us at the Discord or drop by our forums and leave a post.
+#
+# Discord: https://discord.gg/mohistmc
+# Forums: https://mohistmc.com/
+# Forums (CN): https://mohistmc.cn/
+
+anvilfix:
+  maximumrepaircost: 40
+  enchantment_fix: false
+  max_enchantment_level: 32767
+player_modlist_blacklist:
+  enable: false
+  list: []
+server_modlist_whitelist:
+  enable: false
+  list: '[saturn, cyclopscore, blue_skies, supermartijn642configlib, createdeco, geckolib,
+    playeranimator, botarium, aether, gpumemleakfix, placebo, modernfix, evilcraft,
+    evilcraftcompat, yungsapi, gateways, maxhealthfix, mixinextras, bookshelf, twigs,
+    lost_aether_content, create_dragon_lib, railways, balm, immersive_armors, fpsreducer,
+    jeresources, shieldexp, cloth_config, sound_physics_remastered, twilightforest,
+    refinedstorage, konkrete, embeddium, rubidium, athena, structure_gel, corpse,
+    justenoughdrugz, farmersdelight, ends_delight, tempad, morevillagers, endersdelight,
+    create_ultimate_factory, ironfurnaces, supermartijn642corelib, botania, resourcefulconfig,
+    born_in_chaos_v1, spark, curios, patchouli, createarmory, blockui, simplehats,
+    attributeslib, elevatorid, resourcefullib, createliquidfuel, cumulus_menus, constructionwand,
+    twilightdelight, deeperdarker, cfm, architectury, aiimprovements, cupboard, productivebees,
+    nitrogen_internals, the_bumblezone, jadeaddons, framework, l2library, deep_aether,
+    t_and_t, fastleafdecay, voidtotem, darkmodeeverywhere, elytraslot, trashslot,
+    mutantmonsters, rechiseled, productivelib, jei, goblintraders, mekanism, mekanismgenerators,
+    mekanismadditions, mekanismtools, caelus, waystones, clumps, journeymap, integrated_api,
+    travelersbackpack, artifacts, configured, rechiseledcreate, terralith, fusion,
+    ars_nouveau, puzzlesaccessapi, forge, travelerstitles, ironchest, minecraft, smoothchunk,
+    simplyswords, enchdesc, terrablender, mousetweaks, toolbelt, jet_and_elias_armors,
+    jade, spectrelib, nethersdelight, domum_ornamentum, aeroblender, dimdungeons,
+    pipez, notenoughanimations, flywheel, create, createoreexcavation, create_sa,
+    polymorph, securitycraft, storagedrawers, ars_elemental, irons_spellbooks, entityculling,
+    inventoryhud, buildinggadgets2, structurize, minecolonies, lootr, ferritecore,
+    puzzleslib, justzoom, cosmeticarmorreworked, expandability, create_enchantment_industry,
+    createaddition, cristellib, ad_astra]'
+max-bees-in-hive: 3
+enchantment-table-book-animation-tick: false
+networkmanager:
+  debug: false
+  intercept: []
+threadpriority:
+  server_thread: 8
+entity:
+  clear:
+    item:
+      enable: false
+      whitelist: []
+      msg: '[Server] Cleaned up %size% drops'
+      time: 1800
+ban:
+  item:
+    enable: false
+    list: []
+  entity:
+    enable: false
+    list: []
+  enchantment:
+    enable: false
+    list: []
+motd:
+  firstline: <RAINBOW1>A Minecraft Server</RAINBOW>
+  secondline: ''
+settings:
+  messages:
+    ping-command-output: §2%s's ping is %sms
+events:
+  fire_tick: false
+forge:
+  bukkitpermissionshandler: true
+worldmanage: true
+velocity:
+  enabled: false
+  onlineMode: false
+  secret: ''
+mohist:
+  show_logo: true
+  lang: en
+  check_update: true
+  check_update_auto_download: false
+  libraries:
+    check: true
+    downloadsource: MOHIST
+  installation-finished: false
+config-version: 1
+keepinventory:
+  global:
+    enable: false
+    inventory: true
+    exp: true
+  world:
+    inventory: false
+    exp: false

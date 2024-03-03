@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709350491413
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709351268258
+  login: 1709350201430
+money: '0'
+last-account-name: PatataAa1
+logoutlocation:
+  world: bcf8349f-975b-4722-b944-ec3b0ecedb26
+  world-name: world
+  x: 725.3101500482549
+  y: 30.0
+  z: 901.5176263373909
+  yaw: -84.83235168457031
+  pitch: 45.1494140625
+lastlocation:
+  world: bcf8349f-975b-4722-b944-ec3b0ecedb26
+  world-name: world
+  x: 76.30000001192093
+  y: 5.0
+  z: 173.60467833837959
+  yaw: 91.18534851074219
+  pitch: -14.231485366821289

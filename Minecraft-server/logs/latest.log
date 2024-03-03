@@ -1,0 +1,1105 @@
+[01:21:31] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[01:21:31] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.2 by Microsoft; OS Linux arch amd64 version 6.2.0-1019-azure
+[01:21:44] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01:21:44] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/codespaces-jupyter/Minecraft-server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23111!/ Service=ModLauncher Env=SERVER
+[01:21:45] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[01:21:45] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector]: Attempted to select a dependency jar for JarJar which was passed in as source: aeroblender. Using Mod File: /workspaces/codespaces-jupyter/Minecraft-server/mods/aeroblender-1.20.1-1.0.1-neoforge.jar
+[01:21:45] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/codespaces-jupyter/Minecraft-server/mods/curios-forge-5.7.0+1.20.1.jar
+[01:21:45] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator]: Found 20 dependencies adding them to mods collection
+[01:21:48] [main/INFO] [mixin]: Compatibility level set to JAVA_17
+[01:21:49] [main/INFO] [mixin]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[01:21:49] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler]: Launching target 'forgeserver' with arguments [nogui]
+[01:21:49] [main/INFO] [com.abdelaziz.saturn.common.Saturn]: Loaded Saturn config file with 4 configurable options
+[01:21:49] [main/WARN] [mixin]: Reference map 'createdeco-common-refmap.json' for createdeco-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:21:49] [main/WARN] [mixin]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:21:49] [main/INFO] [ModernFix]: Loaded configuration file for ModernFix 5.13.0+mc1.20.1: 74 options available, 0 override(s) found
+[01:21:49] [main/INFO] [ModernFix]: Applying Nashorn fix
+[01:21:49] [main/INFO] [ModernFix]: Applied Forge config corruption patch
+[01:21:49] [main/INFO] [fpsreducer]: OptiFine was NOT detected.
+[01:21:49] [main/INFO] [fpsreducer]: OptiFabric was NOT detected.
+[01:21:49] [main/INFO] [Embeddium]: Loaded configuration file for Embeddium: 191 options available, 0 override(s) found
+[01:21:49] [main/WARN] [mixin]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:21:49] [main/WARN] [mixin]: Reference map 'tempad-forge-1.20.1-forge-refmap.json' for tempad.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:21:49] [main/WARN] [mixin]: Reference map 'CreateLiquidFuel.refmap.json' for createliquidfuel.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:21:49] [main/WARN] [mixin]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:21:49] [main/WARN] [mixin]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:21:49] [main/WARN] [mixin]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:21:49] [main/INFO] [Puzzles Lib]: Loading 147 mods:
+	- ad_astra 1.15.18
+	- aeroblender 1.20.1-1.0.1-neoforge
+	- aether 1.20.1-1.2.0-neoforge
+	- aiimprovements 0.5.2
+	- architectury 9.2.14
+	- ars_elemental 1.20.1-0.6.4.1
+	- ars_nouveau 4.9.0
+	- artifacts 9.2.2
+	- athena 3.1.1
+	- attributeslib 1.2.1
+	- balm 7.2.2
+	- blockui 1.20.1-1.0.139-BETA
+	- blue_skies 1.3.31
+	- bookshelf 20.1.9
+	- born_in_chaos_v1 1.0.0
+	- botania 1.20.1-443-FORGE
+	- botarium 2.3.3
+	- buildinggadgets2 1.0.6
+	- caelus 3.1.0+1.20
+	- cfm 7.0.0-pre36
+	- cloth_config 11.1.118
+	- clumps 12.0.0.3
+	- configured 2.2.2
+	- constructionwand 1.20.1-2.11
+	- corpse 1.20.1-1.0.9
+	- cosmeticarmorreworked 1.20.1-v1a
+	- create 0.5.1.f
+	- create_dragon_lib 1.3.3
+	- create_enchantment_industry 1.2.8
+	- create_sa 2.0.4.
+	- create_ultimate_factory 1.5.0
+	- createaddition 1.20.1-1.2.3
+	- createarmory 0.5
+	- createdeco 2.0.1-1.20.1-forge
+	- createliquidfuel 2.1.0-1.20.1
+	- createoreexcavation 1.4.2
+	- cristellib 1.1.5
+	- cumulus_menus 1.20.1-1.0.0-neoforge
+	- cupboard 1.20.1-2.3
+	- curios 5.7.0+1.20.1
+	- cyclopscore 1.19.0
+	- darkmodeeverywhere 1.20.1-1.2.2
+	- deep_aether 1.20.1-1.0.2
+	- deeperdarker 1.2.1
+	- dimdungeons 191
+	- domum_ornamentum 1.20-1.0.160-BETA
+	- elevatorid 1.20.1-lex-1.9
+	- elytraslot 6.3.0+1.20.1
+	- embeddium 0.3.7+mc1.20.1
+	- enchdesc 17.0.14
+	- endersdelight 1.0.3
+	- ends_delight 1.0.1
+	- entityculling 1.6.2
+	- evilcraft 1.2.37
+	- evilcraftcompat 1.2.37
+	- expandability 9.0.0
+	- farmersdelight 1.20.1-1.2.4
+	- fastleafdecay 31
+	- ferritecore 6.0.1
+	- flywheel 0.6.10-7
+	- forge 47.2.20
+	- fpsreducer 1.20-2.5
+	- framework 0.6.26
+	- fusion 1.1.1
+	- gateways 4.2.3
+	- geckolib 4.3.1
+	- goblintraders 1.9.3
+	- gpumemleakfix 1.20.1-1.8
+	- immersive_armors 1.6.1+1.20.1
+	- integrated_api 1.3.7+1.20.1-forge
+	- inventoryhud 3.4.18
+	- ironchest 1.20.1-14.4.4
+	- ironfurnaces 4.1.4
+	- irons_spellbooks 1.20.1-3.0.1
+	- jade 11.8.0
+	- jadeaddons 5.2.2
+	- jei 15.3.0.4
+	- jeresources 1.4.0.247
+	- jet_and_elias_armors 1.0.0
+	- journeymap 5.9.18
+	- justenoughdrugz 1.1.10
+	- justzoom 1.0.2
+	- konkrete 1.8.0
+	- l2library 2.4.16
+	- lootr 0.7.31.77
+	- lost_aether_content 1.2.3
+	- maxhealthfix 12.0.2
+	- mekanism 10.4.6
+	- mekanismadditions 10.4.6
+	- mekanismgenerators 10.4.6
+	- mekanismtools 10.4.6
+	- minecolonies 1.20.1-1.1.484-BETA
+	- minecraft 1.20.1
+	- mixinextras 0.2.0-beta.9
+	- modernfix 5.13.0+mc1.20.1
+	- mohist 1.20.1
+	- morevillagers 5.0.0
+	- mousetweaks 2.25
+	- mutantmonsters 8.0.7
+	- nethersdelight 1.20.1-4.0
+	- nitrogen_internals 1.20.1-1.0.2-neoforge
+	- notenoughanimations 1.7.1
+	- patchouli 1.20.1-84-FORGE
+	- pipez 1.20.1-1.2.5
+	- placebo 8.6.1
+	- playeranimator 1.0.2-rc1+1.20
+	- polymorph 0.49.2+1.20.1
+	- productivebees 1.20.1-12.3.1
+	- productivelib 1.20.1-0.0.1
+	- puzzlesaccessapi 8.0.7
+	- puzzleslib 8.1.17
+	- railways 1.5.3+forge-mc1.20.1
+	- rechiseled 1.1.5c
+	- rechiseledcreate 1.0.2
+	- refinedstorage 1.12.3
+	- resourcefulconfig 2.1.2
+	- resourcefullib 2.1.23
+	- rubidium 0.7.1
+	- saturn 0.1.3
+	- securitycraft 1.9.8
+	- shieldexp 1.1.7a
+	- simplehats 1.20.1-0.2.2
+	- simplyswords 1.54.0-1.20.1
+	- smoothchunk 1.20.1-3.6
+	- sound_physics_remastered 1.20.1-1.1.2
+	- spark 1.10.53
+	- spectrelib 0.13.14+1.20.1
+	- storagedrawers 12.0.2
+	- structure_gel 2.16.0
+	- structurize 1.20.1-1.0.699-BETA
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.17
+	- t_and_t 0.0NONE
+	- tempad 2.3.3
+	- terrablender 3.0.1.4
+	- terralith 2.4.11
+	- the_bumblezone 7.2.15+1.20.1-forge
+	- toolbelt 1.20.0
+	- trashslot 15.1.0
+	- travelersbackpack 9.1.12
+	- travelerstitles 1.20-Forge-4.0.2
+	- twigs 1.20.1-3.1.1
+	- twilightdelight 2.0.7
+	- twilightforest 4.3.2145
+	- voidtotem 3.0.1
+	- waystones 14.1.3
+	- yungsapi 1.20-Forge-4.0.4
+[01:21:49] [main/WARN] [mixin]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:21:51] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo]: Patching IForgeItemStack#getEnchantmentLevel
+[01:21:51] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo]: Patching IForgeItemStack#getEnchantmentLevel
+[01:21:51] [main/WARN] [mixin]: Error loading class: de/maxhenkel/voicechat/plugins/impl/audiochannel/EntityAudioChannelImpl (java.lang.ClassNotFoundException: de.maxhenkel.voicechat.plugins.impl.audiochannel.EntityAudioChannelImpl)
+[01:21:51] [main/WARN] [mixin]: @Mixin target de.maxhenkel.voicechat.plugins.impl.audiochannel.EntityAudioChannelImpl was not found railways-common.mixins.json:compat.voicechat.EntityAudioChannelImplMixin
+[01:21:51] [main/WARN] [mixin]: Error loading class: de/maxhenkel/voicechat/voice/server/Server (java.lang.ClassNotFoundException: de.maxhenkel.voicechat.voice.server.Server)
+[01:21:51] [main/WARN] [mixin]: @Mixin target de.maxhenkel.voicechat.voice.server.Server was not found railways-common.mixins.json:compat.voicechat.ServerMixin
+[01:21:51] [main/WARN] [mixin]: Error loading class: de/maxhenkel/voicechat/voice/server/ServerWorldUtils (java.lang.ClassNotFoundException: de.maxhenkel.voicechat.voice.server.ServerWorldUtils)
+[01:21:51] [main/WARN] [mixin]: @Mixin target de.maxhenkel.voicechat.voice.server.ServerWorldUtils was not found railways-common.mixins.json:compat.voicechat.ServerWorldUtilsMixin
+[01:21:52] [main/WARN] [mixin]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[01:21:52] [main/WARN] [mixin]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[01:21:52] [main/WARN] [mixin]: Error loading class: com/mojang/blaze3d/audio/Channel (java.lang.ClassNotFoundException: com.mojang.blaze3d.audio.Channel)
+[01:21:52] [main/WARN] [mixin]: @Mixin target com.mojang.blaze3d.audio.Channel was not found assets/sound_physics_remastered/sound_physics_remastered.mixins.json:ChannelAccessor
+[01:21:53] [main/INFO] [MixinExtras|Service]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[01:21:53] [main/INFO] [net.minecraft.server.Bootstrap]: ModernFix reached bootstrap stage (32.09 s after launch)
+[01:21:54] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo]: Patching IForgeItemStack#getEnchantmentLevel
+[01:21:54] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo]: Patching IForgeItemStack#getEnchantmentLevel
+[01:21:56] [main/INFO] [net.minecraft.server.Bootstrap]: Vanilla bootstrap took 2408 milliseconds
+[01:21:56] [main/WARN] [mixin]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ServerPlayerMixin->@Redirect::securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ServerPlayerMixin->@Redirect::snr$securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1200
+[01:21:57] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo]: Patching IForgeItemStack#getEnchantmentLevel
+[01:21:57] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo]: Patching IForgeItemStack#getEnchantmentLevel
+[01:21:59] [main/WARN] [mixin]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[01:21:59] [main/WARN] [mixin]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by com.abdelaziz.saturn.mixin.leaks.biome_temperature_cache.BiomeMixin. Skipping method.
+[01:22:05] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[01:22:05] [modloading-worker-0/INFO] [Create Deco]: Registering items for Create Deco
+[01:22:05] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter]: Successfully loaded the Modding Legacy supporters list.
+[01:22:05] [modloading-worker-0/INFO] [Create Deco]: Registering blocks for Create Deco
+[01:22:05] [modloading-worker-0/INFO] [MaxHealthFix]: Loaded maxhealthfix for Forge.
+[01:22:05] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib]: Create: Dragon Lib 1.3.3 has initialized, ready to support your Create add-ons!
+[01:22:05] [modloading-worker-0/INFO] [Bookshelf]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[01:22:05] [modloading-worker-0/INFO] [Bookshelf]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[01:22:05] [modloading-worker-0/INFO] [Bookshelf]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[01:22:05] [modloading-worker-0/INFO] [Bookshelf]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[01:22:05] [modloading-worker-0/INFO] [Bookshelf]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[01:22:05] [modloading-worker-0/INFO] [Bookshelf]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[01:22:05] [modloading-worker-0/INFO] [Bookshelf]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[01:22:06] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete]: [KONKRETE] Successfully initialized!
+[01:22:06] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete]: [KONKRETE] Server-side libs ready to use!
+[01:22:06] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[01:22:06] [modloading-worker-0/ERROR] [Embeddium]: Failed to update fingerprint
+java.lang.NoClassDefFoundError: net/minecraft/client/Minecraft
+	at me.jellysquid.mods.sodium.client.data.fingerprint.FingerprintMeasure.create(FingerprintMeasure.java:19) ~[embeddium-0.3.7+mc1.20.1.jar%23367!/:?]
+	at me.jellysquid.mods.sodium.client.SodiumClientMod.updateFingerprint(SodiumClientMod.java:100) ~[embeddium-0.3.7+mc1.20.1.jar%23367!/:?]
+	at me.jellysquid.mods.sodium.client.SodiumClientMod.<init>(SodiumClientMod.java:41) ~[embeddium-0.3.7+mc1.20.1.jar%23367!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:76) ~[javafmllanguage-1.20.1-47.2.20.jar%23454!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:123) ~[fmlcore-1.20.1-47.2.20.jar%23453!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.Minecraft
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:157) ~[securejarhandler-mohist-2.1.11.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 15 more
+[01:22:06] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API]: Found 0 RS API injection points
+[01:22:07] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces]: Initializing Update Checker...
+[01:22:07] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces]: Starting Update Check...
+[01:22:07] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces]: Update Check done!
+[01:22:07] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces]: Iron Furnaces is up to date!
+[01:22:07] [modloading-worker-0/INFO] [railways]: Registered bogey styles from railways
+[01:22:07] [modloading-worker-0/INFO] [fonnymunkey.simplehats.SimpleHats]: Loaded 238 hat entries from simplehats.json
+[01:22:07] [modloading-worker-0/INFO] [railways]: Registering data fixers
+[01:22:07] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus]: Disabling Cumulus as it is on server.
+[01:22:08] [modloading-worker-0/INFO] [ModernFix]: Bypassed Mojang DFU
+[01:22:08] [modloading-worker-0/INFO] [ModernFix]: Instantiating Mojang DFU
+[01:22:08] [modloading-worker-0/INFO] [com.cupboard.Cupboard]: Loaded config for: cupboard.json
+[01:22:08] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl]: Registering C2S receiver with id architectury:sync_ids
+[01:22:08] [modloading-worker-0/INFO] [Void Totem]: Loading up Void Totem (Forge)
+[01:22:08] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAetherMod]: Deep Aether: Registering Aether Lost Content compat items
+[01:22:08] [modloading-worker-0/INFO] [teamrazor.deepaether.DeepAetherMod]: Deep Aether: Registering Aether Lost Content compat items
+[01:22:08] [modloading-worker-0/INFO] [Puzzles Lib]: Constructing common components for mutantmonsters:main
+[01:22:09] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder]: 0 Datafixer optimizations took 0 milliseconds
+[01:22:09] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[01:22:09] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[01:22:09] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[01:22:09] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[01:22:09] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[01:22:09] [modloading-worker-0/INFO] [railways]: Registering tracks for Hex Casting
+[01:22:09] [modloading-worker-0/INFO] [railways]: Registering tracks for Oh The Biomes You'll Go
+[01:22:09] [modloading-worker-0/INFO] [railways]: Registering tracks for Blue Skies
+[01:22:09] [modloading-worker-0/INFO] [railways]: Registering tracks for Twilight Forest
+[01:22:09] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: Mohist mod loading.....
+[01:22:09] [modloading-worker-0/INFO] [railways]: Registering tracks for Biomes O' Plenty
+[01:22:09] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: EventDispatcherRegistry initialized
+[01:22:09] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
+[01:22:09] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge]: MinecraftForge v47.2.20 Initialized
+[01:22:09] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge]: NeoForge v47.2.20 Initialized
+[01:22:11] [modloading-worker-0/ERROR] [structurize]: ----------------------------------------------------------------- 
+ Invalid DataFixer detected, schematics might not paste correctly! 
+The following DataFixer was added: class org.embeddedt.modernfix.dfu.LazyDataFixer
+-----------------------------------------------------------------
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Warped Netherlands
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Stalactite Caves
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Space Wars
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Shire
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Desert Oasis
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Pagoda
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Minecolonies Original
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Nordic Spruce
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Medieval Spruce
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Medieval Oak
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Medieval Dark Oak
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Medieval Birch
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Lost Mesa City
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Jungle Treehouse
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Incan
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Fortress
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Dark Oak Treehouse
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Colonial
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Cavern
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Caledonia
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Urban Birch
+[01:22:11] [Structurize IO Worker #0/INFO] [structurize]: Registered structure pack: Urban Savanna
+[01:22:11] [Structurize IO Worker #0/WARN] [structurize]: Failed loading packs from main folder path: .
+[01:22:11] [Structurize IO Worker #0/WARN] [structurize]: Failed loading client packs from main folder path: .
+[01:22:11] [Structurize IO Worker #0/WARN] [structurize]: Finished discovering Server Structure packs
+[01:22:11] [modloading-worker-0/INFO] [Puzzles Lib]: Constructing common components for puzzleslib:main
+[01:22:11] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility]: ExpandAbility here, who dis?
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [Create Deco]: placard tooltip was null
+[01:22:16] [main/INFO] [fonnymunkey.simplehats.SimpleHats]: Generated 238 hat items from hat entries.
+[01:22:17] [main/INFO] [evilcraft]: 2205 possible Broom base combinations are ready for flying!
+[01:22:18] [main/INFO] [ModdingLegacy/StructureGel]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[01:22:18] [main/INFO] [ModdingLegacy/StructureGel]: [structure_gel] Registering data for structure_gel:data_handler_type
+[01:22:18] [main/INFO] [ModdingLegacy/StructureGel]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[01:22:18] [main/INFO] [ModdingLegacy/StructureGel]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[01:22:18] [main/WARN] [net.minecraftforge.registries.ForgeRegistry]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddItemModifier$$Lambda/0x00007fe37ed406a8@71cf6119] * Field[conditions: passthrough[flatXmapped]] * Field[item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@3e16dd6d] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:add_item.
+[01:22:18] [main/WARN] [net.minecraftforge.registries.ForgeRegistry]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddLootTableModifier$$Lambda/0x00007fe37ed40d50@6c607ffb] * Field[conditions: passthrough[flatXmapped]] * Field[lootTable: String[comapFlatMapped]]] has been registered twice for the same name farmersdelight:add_loot_table.
+[01:22:18] [main/WARN] [net.minecraftforge.registries.ForgeRegistry]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.PastrySlicingModifier$$Lambda/0x00007fe37ed413e8@15ef711b] * Field[conditions: passthrough[flatXmapped]] * Field[slice: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@3e16dd6d]] has been registered twice for the same name farmersdelight:pastry_slicing.
+[01:22:18] [Thread-0/INFO] [ModernFix]: Please use /mfsrc to reload any changed mod config files
+[01:22:18] [main/INFO] [Puzzles Lib]: Loading common config for mutantmonsters
+[01:22:18] [main/INFO] [com.tom.createores.CreateOreExcavation]: Loaded Create Ore Excavation config file createoreexcavation-common.toml
+[01:22:18] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix]: gpumemleakfix mod initialized
+[01:22:18] [modloading-worker-0/INFO] [evilcraft]: Registered packet handler.
+[01:22:19] [modloading-worker-0/INFO] [Sound Physics - General]: Reloading reverb parameters
+[01:22:19] [modloading-worker-0/INFO] [cn.foggyhillside.ends_delight.EndsDelight]: HELLO FROM PREINIT
+[01:22:19] [modloading-worker-0/INFO] [cn.foggyhillside.ends_delight.EndsDelight]: DIRT BLOCK >> translation{key='block.minecraft.dirt', args=[]}
+[01:22:19] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight]: HELLO FROM PREINIT
+[01:22:19] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight]: DIRT BLOCK >> translation{key='block.minecraft.dirt', args=[]}
+[01:22:19] [modloading-worker-0/WARN] [Sound Physics - General]: Sound event justenoughdrugz:bong_use not found
+[01:22:19] [modloading-worker-0/INFO] [thetadev.constructionwand.ConstructionWand]: ConstructionWand says hello - may the odds be ever in your favor.
+[01:22:19] [modloading-worker-0/INFO] [thetadev.constructionwand.ConstructionWand]: Botania integration added
+[01:22:19] [modloading-worker-0/INFO] [mekanism.common.Mekanism]: Version 10.4.6 initializing...
+[01:22:19] [modloading-worker-0/INFO] [mekanism.common.Mekanism]: Loaded 'Mekanism: Additions' module.
+[01:22:19] [modloading-worker-0/INFO] [mekanism.common.Mekanism]: Loaded 'Mekanism: Generators' module.
+[01:22:19] [modloading-worker-0/INFO] [mekanism.common.Mekanism]: Loaded 'Mekanism: Tools' module.
+[01:22:19] [modloading-worker-0/INFO] [com.tom.createores.CreateOreExcavation]: Create Ore Excavation starting
+[01:22:19] [modloading-worker-0/INFO] [com.tom.createores.CreateOreExcavation]: Initilaized Network Handler
+[01:22:19] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers]: New compacting rule 4 clay_ball = 1 clay
+[01:22:19] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers]: New compacting rule 4 snowball = 1 snow_block
+[01:22:19] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers]: New compacting rule 4 glowstone_dust = 1 glowstone
+[01:22:19] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers]: New compacting rule 4 brick = 1 bricks
+[01:22:19] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers]: New compacting rule 4 nether_brick = 1 nether_bricks
+[01:22:19] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[01:22:19] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers]: New compacting rule 4 quartz = 1 quartz_block
+[01:22:19] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers]: New compacting rule 9 melon_slice = 1 melon
+[01:22:19] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers]: New compacting rule 4 sand = 1 sandstone
+[01:22:19] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers]: New compacting rule 4 red_sand = 1 red_sandstone
+[01:22:19] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers]: New compacting rule 4 clay_ball = 1 clay
+[01:22:19] [modloading-worker-0/INFO] [mekanism.common.Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[01:22:19] [modloading-worker-0/INFO] [mekanism.common.Mekanism]: Mod loaded.
+[01:22:19] [main/INFO] [terrablender]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01:22:19] [main/INFO] [terrablender]: Registered region minecraft:nether to index 0 for type NETHER
+[01:22:19] [main/INFO] [terrablender]: Registered region aether:the_aether to index 0 for type THE_AETHER
+[01:22:19] [main/INFO] [terrablender]: Registered region deep_aether:deep_aether to index 1 for type THE_AETHER
+[01:22:19] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[01:22:19] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[01:22:19] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[01:22:19] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[01:22:19] [main/INFO] [journeymap]: Initializing Packet Registries
+[01:22:19] [main/INFO] [terrablender]: Registered region ars_nouveau:overworld to index 1 for type OVERWORLD
+[01:22:20] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks]: Got IMC []
+[01:22:20] [modloading-worker-0/WARN] [minecolonies]: Register mappings
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at dev.shadowsoffire.gateways.compat.GatewayJadePlugin
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at cy.jdkdigital.productivebees.compat.hwyla.ProductiveBeesWailaPlugin
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at snownee.jade.addon.lootr.LootrPlugin
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at snownee.jade.addon.general.GeneralPlugin
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at snownee.jade.addon.create.CreatePlugin
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at de.maxhenkel.pipez.integration.waila.PluginPipes
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[01:22:20] [modloading-worker-0/INFO] [Jade]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[01:22:21] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:22:22] [main/ERROR] [Cristel Lib]: Cristel Lib Config Pack has no data
+[01:22:22] [main/WARN] [Cristel Lib]: T&T Waystone Patch Pack accepted!
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_cypress as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_atmospheric_kousa as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_magic_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_dead_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_magic_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_palm as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_upgrade_aquatic_driftwood_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_bulbis_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_pink_bioshroom_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_atmospheric_morado as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/mahogany_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/willow_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_magnolia as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_white_mangrove_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_eucalyptus as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_yucca_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/crimson_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_redwood_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_endergetic_poise_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_maple_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/bamboo_canvas_hive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_palm_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_magnolia_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_lament as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/warped_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/jungle_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/acacia_canvas_hive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_quark_blossom as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_autumnity_maple as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_dead as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_palm_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_upgrade_aquatic_river_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_witch_hazel_beehive_clear as it's serializer returned null
+[01:22:33] [main/WARN] [com.simibubi.create.Create]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_blue_bioshroom_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_jacaranda as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_mahogany_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_palm_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_jacaranda_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/snake_block_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_hellbark_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_cypress_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_hellbark_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_pine as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_blackwood_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_biomesoplenty_redwood as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_willow_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe ars_elemental:jeed/life_link as it's serializer returned null
+[01:22:33] [main/WARN] [com.simibubi.create.Create]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_baobab as it's serializer returned null
+[01:22:33] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager]: Parsing error loading recipe railways:sequenced_assembly/track_blue_skies_cherry_wide: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_slab'
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/spruce_canvas_hive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_socotra as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_cika_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_ebony_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_bulbis as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_blue_enchanted_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe ars_elemental:jeed/entrhalled as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_willow as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_joshua_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_dead_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_fir_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_blue_enchanted_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_blue_bioshroom as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_ebony as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_pink_bioshroom_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_umbran_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_imparius as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_green_bioshroom_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_redwood as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_green_bioshroom_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_baobab_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_holly_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_baobab_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_yellow_bioshroom as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_biomesoplenty_dead as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_environmental_wisteria_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_maple as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/dead_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_lament_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_embur_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_grimwood_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_upgrade_aquatic_river_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_jacaranda_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_larch_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_morado_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/aspen_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_cika_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_pine as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_cypress_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_quark_blossom_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_pine_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_fir as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_joshua_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_kousa_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_redwood as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_biomesoplenty_umbran as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_atmospheric_rosewood as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/rosewood_canvas_hive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_upgrade_aquatic_driftwood as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_dead_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/comb_canvas_hive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_maple_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe ars_elemental:jeed/watery_grave as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_nightshade_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_willow as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/jungle_canvas_hive as it's serializer returned null
+[01:22:33] [main/WARN] [com.simibubi.create.Create]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_aspen_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/rosewood_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/maple_canvas_hive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_willow_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_atmospheric_grimwood as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_green_enchanted as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_alpha_oak_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_umbran_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_blackwood_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/jacaranda_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_mauve as it's serializer returned null
+[01:22:33] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager]: Parsing error loading recipe railways:sequenced_assembly/track_blue_skies_cherry: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_slab'
+[01:22:33] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager]: Parsing error loading recipe create:cutting/compat/blue_skies/cherry_wood: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_wood'
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_skyris_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/acacia_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_witch_hazel as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_kapok_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/grimwood_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_endergetic_poise_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_imparius_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_imparius_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_willow_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_embur_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/dark_oak_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/WARN] [com.simibubi.create.Create]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_baobab as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/mahogany_canvas_hive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe ars_elemental:jeed/mana_shield as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_palm_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/yucca_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_baobab_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_eucalyptus_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/kousa_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_mahogany_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_redwood_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/driftwood_canvas_hive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_pine_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/oak_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/birch_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_mahogany_beehive_clear as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_ether as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/oak_canvas_hive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_yucca_beehive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_quark_azalea_beehive_clear as it's serializer returned null
+[01:22:33] [main/WARN] [com.simibubi.create.Create]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/fir_canvas_expansion_box as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_biomesoplenty_magic as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/warped_canvas_hive as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_joshua as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_willow_beehive as it's serializer returned null
+[01:22:33] [main/WARN] [com.simibubi.create.Create]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_cypress as it's serializer returned null
+[01:22:33] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_mahogany as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_yellow_bioshroom_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe ars_elemental:jeed/hellfire_burn as it's serializer returned null
+[01:22:34] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager]: Parsing error loading recipe create:cutting/compat/blue_skies/cherry_log: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_log'
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/snake_block_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_palm_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/willow_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/birch_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_socotra_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_fir_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_mauve_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_sythian as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/umbran_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_maple_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/redwood_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_environmental_wisteria as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_redwood_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_cika as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_alpha_oak_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_holly as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/concrete_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_pine_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_biomesoplenty_hellbark as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_kapok_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_cypress_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_kapok as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe botany_pots:ars_elemental/flashing_archwood as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_baobab_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_lament_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/driftwood_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_environmental_wisteria_beehive as it's serializer returned null
+[01:22:34] [main/WARN] [com.simibubi.create.Create]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_witch_hazel_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_blue_bioshroom_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/comb_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/mangrove_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_sythian_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_pink_bioshroom as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_willow_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_biomesoplenty_willow as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_autumnity_maple_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/fir_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_autumnity_maple_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_nightshade_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_grimwood_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_atmospheric_aspen as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_redwood_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_upgrade_aquatic_driftwood_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_quark_azalea as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_willow_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/spruce_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_aspen_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_rosewood_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/yucca_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_quark_azalea_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/kousa_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_mahogany_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_pine_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_cypress_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/dead_canvas_hive as it's serializer returned null
+[01:22:34] [main/WARN] [com.simibubi.create.Create]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_green_enchanted_beehive_clear as it's serializer returned null
+[01:22:34] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager]: Parsing error loading recipe create:cutting/compat/blue_skies/stripped_cherry_wood: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:stripped_cherry_wood'
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[01:22:34] [main/WARN] [com.simibubi.create.Create]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_cobalt_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_white_mangrove_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_mauve_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/cherry_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_redwood_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_biomesoplenty_mahogany as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_palm_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_bulbis_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_dead_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_ebony_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_yellow_bioshroom_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/jacaranda_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/wisteria_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_cobalt_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_cobalt as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_holly_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_maple as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_biomesoplenty_jacaranda as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/cherry_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/concrete_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_zelkova as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/magic_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_maple_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/crimson_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/maple_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_fir_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_redwood_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_skyris_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/hellbark_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_rosewood_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_upgrade_aquatic_river as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_jacaranda_beehive_clear as it's serializer returned null
+[01:22:34] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager]: Parsing error loading recipe storagedrawers:conversion_upgrade: com.google.gson.JsonSyntaxException: Unknown item 'storagedrawers:conversion_upgrade'
+[01:22:34] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager]: Parsing error loading recipe create:cutting/compat/blue_skies/stripped_cherry_log: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:stripped_cherry_log'
+[01:22:34] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager]: Parsing error loading recipe railways:sequenced_assembly/track_blue_skies_cherry_narrow: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_slab'
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_magnolia_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/palm_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/redwood_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_skyris as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_fir_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/river_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/wisteria_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_palm as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_morado_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/river_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/hellbark_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_white_mangrove as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_larch as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_endergetic_poise as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/magic_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_zelkova_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/bamboo_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_green_bioshroom as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_biomesoplenty_jacaranda_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_nightshade as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_ether_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_biomesoplenty_palm as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_ether_beehive_clear as it's serializer returned null
+[01:22:34] [main/WARN] [com.simibubi.create.Create]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/mangrove_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/palm_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_zelkova_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_sythian_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_aspen as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_blackwood as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_aspen_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_eucalyptus_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/dark_oak_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_atmospheric_kousa_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_embur as it's serializer returned null
+[01:22:34] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager]: Parsing error loading recipe miningmaster:forging/paragon_shield: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'miningmaster:forging_recipe'
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_larch_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_byg_blue_enchanted as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_aspen_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_quark_blossom_beehive_clear as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/aspen_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_regions_unexplored_socotra_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_biomesoplenty_fir as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/grimwood_canvas_hive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_regions_unexplored_alpha_oak as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:hives/advanced_byg_green_enchanted_beehive as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:expansion_boxes/expansion_box_atmospheric_yucca as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[01:22:34] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager]: Parsing error loading recipe shieldexp:griefer_shield: com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof_plating'
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Skipping loading recipe productivebees:corail/woodcutter/umbran_canvas_expansion_box as it's serializer returned null
+[01:22:34] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Loaded 127 recipes
+[01:22:34] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 10325 advancements
+[01:22:34] [main/INFO] [placebo]: Registered 0 additional recipes.
+[01:22:34] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager]: Loaded 8 tool_handle_types
+[01:22:34] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager]: Loaded 37 snowcap_oven_freezing_recipes
+[01:22:34] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager]: Loaded 7 horizonite_forge_fuels
+[01:22:34] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager]: Loaded 12 snowcap_mushroom_freezing
+[01:22:34] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager]: Loaded 70 alchemy_recipes
+[01:22:34] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager]: Loaded 81 journal/entries
+[01:22:34] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager]: Loaded 3 journal/sections
+[01:22:34] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager]: Loaded 7 journal/requirements
+[01:22:34] [main/INFO] [twilightforest]: Loaded 9 Stalactite configs!
+[01:22:34] [main/INFO] [top.theillusivec4.curios.Curios]: Loaded 20 curio slots
+[01:22:34] [main/INFO] [top.theillusivec4.curios.Curios]: Loaded 9 curio entities
+[01:22:34] [main/INFO] [rechiseled]: Loaded 66 chiseling recipes
+[01:22:34] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23148!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23148!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23148!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23148!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23148!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23148!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.2.20-universal.jar%23457!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.2.20-universal.jar%23457!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.2.20-universal.jar%23457!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at net.minecraft.server.Main.main(Main.java:220) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.20.jar%23186!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.20.jar%23186!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.20.jar%23186!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+	at com.mohistmc.MohistMCStart.main(MohistMCStart.java:106) [mohist.jar:1.20.1-580]
+[01:22:34] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[01:22:34] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23148!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23148!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23148!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23148!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23148!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23148!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.2.20-universal.jar%23457!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%23164!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.2.20-universal.jar%23457!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.2.20-universal.jar%23457!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at net.minecraft.server.Main.main(Main.java:220) ~[server-1.20.1-20230612.114412-srg.jar%23452!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.20.jar%23186!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.20.jar%23186!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.20.jar%23186!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.9.jar%23101!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+	at com.mohistmc.MohistMCStart.main(MohistMCStart.java:106) [mohist.jar:1.20.1-580]
+[01:22:34] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[01:22:34] [main/INFO] [minecolonies]: Beginning load of custom recipes for colony workers
+[01:22:34] [main/INFO] [minecolonies]: Loaded 132 recipes for 14 crafters
+[01:22:34] [main/INFO] [minecolonies]: Beginning load of research for University.
+[01:22:34] [main/INFO] [minecolonies]: Loaded 201 recipes for 4 research branches
+[01:22:34] [main/INFO] [minecolonies]: Loading quests from data
+[01:22:34] [main/INFO] [minecolonies]: Finished loading quests from data
+[01:22:34] [main/WARN] [minecolonies]: Read 1456 items with their nbt keys for compatibility.
+[01:22:34] [main/INFO] [placebo]: Registered 4 gear_sets.
+[01:22:34] [main/INFO] [Gateways to Eternity]: Registered 7 gateways.
+[01:22:34] [main/INFO] [evilcraft]: 19 Broom modifiers can be applied!
+[01:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.20.1
+[01:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:22:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Generating keypair
+[01:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:22:35] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener]: Using epoll channel type
+[01:22:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:22:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:22:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:22:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:22:35] [Server thread/INFO] [Minecraft]: This server is running Mohist version 1.20.1-580 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT, Forge version 47.2.20, NeoForge version 47.1.79)
+[01:22:37] [Server thread/INFO] []: Finalizing energy block registration
+[01:22:37] [Server thread/INFO] []: Finalizing fluid block registration
+[01:22:38] [Server thread/INFO] [Minecraft]: Debug logging is enabled
+[01:22:38] [Server thread/INFO] []: Server Ping Player Sample Count: 20
+[01:22:38] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
+[01:22:38] [Server thread/INFO] [com.mohistmc.MohistMC]: Hello Plugins!
+[01:22:40] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading LuckPerms v5.4.119
+[01:22:40] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap]: [SkinsRestorer] Loading SkinsRestorer v15.0.7
+[01:22:40] [Server thread/INFO] [net.milkbowl.vault.Vault]: [Vault] Loading Vault v1.7.3-b131
+[01:22:40] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Loading Essentials v2.21.0-dev+68-993d7ed
+[01:22:41] [Server thread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Loading DiscordSRV v1.27.0
+[01:22:41] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Enabling LuckPerms v5.4.119
+[01:22:41] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.placebo]: Patching IForgeItemStack#getEnchantmentLevel
+[01:22:41] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.placebo]: Patching IForgeItemStack#getEnchantmentLevel
+[01:22:42] [Server thread/INFO] [Console]:         __    
+[01:22:42] [Server thread/INFO] [Console]:   |    |__)   LuckPerms v5.4.119
+[01:22:42] [Server thread/INFO] [Console]:   |___ |      Running on Bukkit - Mohist
+[01:22:42] [Server thread/INFO] [Console]: 
+[01:22:42] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading configuration...
+[01:22:42] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading storage provider... [YAML]
+[01:22:43] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading internal permission managers...
+[01:22:43] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Performing initial data load...
+[01:22:43] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Successfully enabled. (took 2826ms)
+[01:22:43] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap]: [SkinsRestorer] Enabling SkinsRestorer v15.0.7
+[01:22:45] [Server thread/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
+[01:22:46] [Server thread/INFO] [net.milkbowl.vault.Vault]: [Vault] Enabling Vault v1.7.3-b131
+[01:22:46] [Server thread/WARN] [net.milkbowl.vault.Vault]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.21.0-dev+68-993d7ed which is not a depend or softdepend of this plugin.
+[01:22:46] [Server thread/INFO] [net.milkbowl.vault.Vault]: [Vault] [Economy] Essentials Economy found: Waiting
+[01:22:47] [Server thread/INFO] [net.milkbowl.vault.Vault]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[01:22:48] [Server thread/INFO] [net.milkbowl.vault.Vault]: [Vault] Enabled Version 1.7.3-b131
+[01:22:48] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Registered Vault permission & chat hook.
+[01:22:48] [Server thread/INFO] [Puzzles Lib]: Loading server config for mutantmonsters
+[01:22:48] [Server thread/INFO] [journeymap]: Loading JourneyMap Forge Configs
+[01:22:48] [Server thread/INFO] [com.tom.createores.CreateOreExcavation]: Loaded Create Ore Excavation config file createoreexcavation-server.toml
+[01:22:48] [Server thread/INFO] [spark]: Starting background profiler...
+[01:22:49] [Server thread/INFO] [Framework]: Loading server configs...
+[01:22:49] [Server thread/INFO] [terrablender]: Initialized TerraBlender biomes for level stem aether:the_aether
+[01:22:49] [Server thread/INFO] [terrablender]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01:22:49] [Server thread/INFO] [terrablender]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:22:50] [Server thread/WARN] [mixin]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1200
+[01:22:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[01:22:51] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:22:51] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:22:51] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:22:52] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 7%
+[01:22:52] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 14%
+[01:22:53] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 41%
+[01:22:53] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 2984 ms
+[01:22:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension aether:the_aether
+[01:22:54] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:22:54] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:22:54] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 45%
+[01:22:55] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 94%
+[01:22:55] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1556 ms
+[01:22:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension the_bumblezone:the_bumblezone
+[01:22:55] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:22:55] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 9%
+[01:22:56] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 25%
+[01:22:56] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 51%
+[01:22:57] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1982 ms
+[01:22:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension ad_astra:venus
+[01:22:57] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:22:57] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 25%
+[01:22:58] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 68%
+[01:22:58] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1391 ms
+[01:22:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension ad_astra:venus_orbit
+[01:22:58] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:22:59] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 25%
+[01:22:59] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 86%
+[01:22:59] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1080 ms
+[01:22:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension deeperdarker:otherside
+[01:22:59] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:00] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 27%
+[01:23:00] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 98%
+[01:23:00] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1005 ms
+[01:23:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension blue_skies:everbright
+[01:23:00] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:01] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 15%
+[01:23:01] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 44%
+[01:23:02] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1440 ms
+[01:23:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension ad_astra:glacio
+[01:23:02] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:02] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 30%
+[01:23:03] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 949 ms
+[01:23:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension ad_astra:mars
+[01:23:03] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:03] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 43%
+[01:23:04] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 792 ms
+[01:23:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension ad_astra:mercury
+[01:23:04] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:04] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 30%
+[01:23:04] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 870 ms
+[01:23:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension twilightforest:twilight_forest
+[01:23:04] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:05] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 20%
+[01:23:06] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1066 ms
+[01:23:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension ad_astra:glacio_orbit
+[01:23:06] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:06] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 57%
+[01:23:06] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 676 ms
+[01:23:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension blue_skies:everdawn
+[01:23:06] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:07] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 11%
+[01:23:07] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 70%
+[01:23:07] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1134 ms
+[01:23:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension dimdungeons:build_dimension
+[01:23:07] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:08] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 60%
+[01:23:08] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 665 ms
+[01:23:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension ad_astra:mercury_orbit
+[01:23:08] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:09] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 58%
+[01:23:09] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 648 ms
+[01:23:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension dimdungeons:dungeon_dimension
+[01:23:09] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:09] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 55%
+[01:23:09] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 700 ms
+[01:23:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension ad_astra:moon_orbit
+[01:23:09] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:10] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 47%
+[01:23:10] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 715 ms
+[01:23:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension ad_astra:mars_orbit
+[01:23:10] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:11] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 41%
+[01:23:11] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 830 ms
+[01:23:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension ad_astra:moon
+[01:23:11] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:11] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 36%
+[01:23:12] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 890 ms
+[01:23:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension ad_astra:earth_orbit
+[01:23:12] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[01:23:12] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 62%
+[01:23:12] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 668 ms
+[01:23:13] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Enabling Essentials v2.21.0-dev+68-993d7ed
+[01:23:13] [Server thread/ERROR] [Essentials]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[01:23:13] [Server thread/INFO] [Essentials]: Status determining class: brand:Mohist
+[01:23:13] [Server thread/INFO] [Essentials]: Attempting to convert old kits in config.yml to new kits.yml
+[01:23:13] [Server thread/INFO] [Essentials]: No kits found to migrate.
+[01:23:14] [Server thread/INFO] [Essentials]: Loaded 39095 items from items.json.
+[01:23:14] [Server thread/INFO] [Essentials]: Using locale es
+[01:23:14] [Server thread/INFO] [Essentials]: ServerListPingEvent: Spigot iterator API
+[01:23:14] [Server thread/INFO] [Essentials]: Starting Metrics. Opt-out using the global bStats config.
+[01:23:14] [Server thread/INFO] [net.milkbowl.vault.Vault]: [Vault] [Economy] Essentials Economy hooked.
+[01:23:14] [Server thread/INFO] [Essentials]: Using Vault based permissions (LuckPerms)
+[01:23:14] [Server thread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Enabling DiscordSRV v1.27.0
+[01:23:14] [Server thread/INFO] [com.mohistmc.plugins.Main]: [Mohist] Enabling Mohist v1.20.1
+[01:23:14] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
+[01:23:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (26.501s)! For help, type "help"
+[01:23:15] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Successfully initialized permission handler forge:default_handler
+[01:23:15] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Forwarding forge permission[forge:default_handler] to bukkit[mohist:permission]
+[01:23:15] [Server thread/INFO] [net.stardustlabs.terralith.Terralith]: Thanks for choosing Terralith!
+[01:23:15] [Server thread/INFO] [cyclopscore]: Loading infobook /data/cyclopscore/info/test.xml
+[01:23:15] [Server thread/INFO] [evilcraft]: Loading infobook /data/evilcraft/info/book.xml
+[01:23:15] [Server thread/WARN] [evilcraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[01:23:15] [Server thread/WARN] [evilcraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[01:23:15] [Server thread/WARN] [evilcraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[01:23:15] [Server thread/WARN] [evilcraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[01:23:15] [Server thread/INFO] [evilcraft]: Skipped section info_book.evilcraftcompat.mod_integrations.baubles due to unsatisfied mod condition.
+[01:23:15] [Server thread/INFO] [evilcraft]: Skipped section info_book.evilcraftcompat.mod_integrations.blood_magic due to unsatisfied mod condition.
+[01:23:15] [Server thread/INFO] [evilcraft]: Skipped section info_book.evilcraftcompat.mod_integrations.ee3 due to unsatisfied mod condition.
+[01:23:15] [Server thread/INFO] [evilcraft]: Skipped section info_book.evilcraftcompat.mod_integrations.enderio due to unsatisfied mod condition.
+[01:23:15] [Server thread/INFO] [evilcraft]: Skipped section info_book.evilcraftcompat.mod_integrations.forestry due to unsatisfied mod condition.
+[01:23:15] [Server thread/INFO] [evilcraft]: Skipped section info_book.evilcraftcompat.mod_integrations.ic2 due to unsatisfied mod condition.
+[01:23:15] [Server thread/INFO] [evilcraft]: Skipped section info_book.evilcraftcompat.mod_integrations.immersiveengineering due to unsatisfied mod condition.
+[01:23:15] [Server thread/INFO] [evilcraft]: Skipped section info_book.evilcraftcompat.mod_integrations.thaumcraft due to unsatisfied mod condition.
+[01:23:15] [Server thread/INFO] [evilcraft]: Skipped section info_book.evilcraftcompat.mod_integrations.thermal_expansion due to unsatisfied mod condition.
+[01:23:15] [Server thread/INFO] [evilcraft]: Skipped section info_book.evilcraftcompat.mod_integrations.tinkers_construct due to unsatisfied mod condition.
+[01:23:15] [Server thread/INFO] [evilcraft]: Skipped section info_book.evilcraftcompat.mod_integrations.waila due to unsatisfied mod condition.
+[01:23:15] [Server thread/INFO] [com.cupboard.Cupboard]: Loaded config for: smoothchunk.json
+[01:23:15] [pool-16-thread-1/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] DiscordSRV is up-to-date. (6405e850eea61a4b9bf4f0d0cbb80fe20b3cfb90)
+[01:23:15] [Server thread/INFO] [minecolonies]: Finished discovering Ores 78 76
+[01:23:15] [Server thread/INFO] [minecolonies]: Finished discovering saplings 37
+[01:23:15] [Server thread/INFO] [minecolonies]: Finished discovering plantables 19
+[01:23:15] [Server thread/INFO] [minecolonies]: Finished discovering food 355 397
+[01:23:15] [Server thread/INFO] [minecolonies]: Finished discovering fuel 883
+[01:23:15] [Server thread/INFO] [minecolonies]: Finished discovering flowers 134
+[01:23:15] [Server thread/INFO] [minecolonies]: Finished discovering items 14597
+[01:23:15] [Server thread/INFO] [minecolonies]: Finished discovering lucky oreBlocks 6
+[01:23:15] [Server thread/INFO] [minecolonies]: Finished discovering recruitment costs
+[01:23:15] [Server thread/INFO] [minecolonies]: Finished discovering diseases
+[01:23:15] [Server thread/INFO] [minecolonies]: Finished discovering compostables 616
+[01:23:16] [Server thread/INFO] [patchouli]: Sending reload packet to clients
+[01:23:16] [Server thread/WARN] [ModernFix]: Dedicated server took 114.38 seconds to load
+[01:23:16] [Server thread/INFO] [Essentials]: Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[01:23:16] [Craft Scheduler Thread - 4/INFO] [net.milkbowl.vault.Vault]: [Vault] Checking for Updates ... 
+[01:23:16] [Craft Scheduler Thread - 0/INFO] [Essentials]: Obteniendo información de versión...
+[01:23:16] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[01:23:16] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[01:23:16] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[01:23:16] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[01:23:16] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[01:23:16] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[01:23:16] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[01:23:16] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.0.7[0;39m
+[01:23:16] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m301d078[0;39m
+[01:23:16] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[01:23:16] [Craft Scheduler Thread - 1/INFO] [Console]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[01:23:16] [Craft Scheduler Thread - 4/INFO] [net.milkbowl.vault.Vault]: [Vault] No new version available
+[01:23:17] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] [JDA] Login Successful!
+[01:23:17] [JDA MainWS-WriteThread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] [JDA] Connected to WebSocket
+[01:23:18] [JDA MainWS-ReadThread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] [JDA] Finished Loading!
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Found server G:The Entonces(1009997158486900786)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:📍▸entrada(1009997159178969240)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:📰▸anuncios(1089113769323528192)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🌈▸colores(1011674594811326514)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:📰▸anuncios(1195202869217988628)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🌎▸general(1009998915535388742)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:☁▸valorant-egoleh(1111014840316723241)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:💌▸publico(1177787121633861632)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🎁▸cumpleaños(1204233886117265469)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🧩▸server(1213188610921205770)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:♻▸chat(1213000229557899295)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🗺▸consola(1213000039555670086)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:musica(1090431621557133382)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🔇retrasados-sin-mic(1197344910915944559)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:⛏▸minecraft(1089113848222584842)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🔫▸left-4-dead(1179568100237115393)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🔔▸streams(1121234662858162236)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:💠▸sv-minecraft(1182222075235156040)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:miras-cb(1064668844838355034)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:configurar(1012065772094378167)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:log(1158169487166689393)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🍒▸spam(1045374065076093009)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:💌▸txt(1141891008246845500)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🎁▸cumpleaños(1012478668259479613)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🔢▸contador(1158167925816033320)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:🔢▸contador-log(1158175182444298302)
+[01:23:18] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Console forwarding assigned to channel TC:🗺▸consola(1213000039555670086)
+[01:23:19] [DiscordSRV - JDA Callback 0/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[01:23:19] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Enabling Essentials hook
+[01:23:19] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Enabling LuckPerms hook
+[01:26:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:26:53] [Server thread/INFO] [com.mohistmc.plugins.Main]: [Mohist] Disabling Mohist v1.20.1
+[01:26:53] [Server thread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Disabling DiscordSRV v1.27.0
+[01:26:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players

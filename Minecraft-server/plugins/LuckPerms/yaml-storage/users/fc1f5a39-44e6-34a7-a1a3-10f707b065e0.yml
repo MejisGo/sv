@@ -1,0 +1,6 @@
+uuid: fc1f5a39-44e6-34a7-a1a3-10f707b065e0
+name: MejisGo
+primary-group: default
+permissions:
+parents:
+- default
